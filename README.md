@@ -150,3 +150,8 @@ npm install -D @sveltejs/svelte-virtual-list
 ## Bugs and feedback
 
 Sapper is in early development, and may have the odd rough edge here and there. Please be vocal over on the [Sapper issue tracker](https://github.com/sveltejs/sapper/issues).
+
+## Works deploy to glitch
+
+bisa dilihat di https://glitch.com/edit/#!/sapper-template-tes, caranya tinggal ikuti package.js yang ini.. atau bisa ikuti tutorial ini 
+https://www.youtube.com/watch?v=h9p1roMflPE OR https://glitch.com/edit/#!/fortune-fright?path=package.json%3A40%3A0
